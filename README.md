@@ -23,8 +23,8 @@ This project contains an automated script for the Plume Testnet. The script perf
 
    For the script to work correctly, you will need test ETH and GOON tokens. You can obtain these tokens from the following links:
 
-   - [Get test ETH]([https://example.com/get-test-eth](https://miles.plumenetwork.xyz/faucet))
-   - [Get test GOON tokens]([https://example.com/get-test-goon](https://miles.plumenetwork.xyz/faucet))
+   - [Get test ETH](https://miles.plumenetwork.xyz/faucet)
+   - [Get test GOON tokens](https://miles.plumenetwork.xyz/faucet)
 
 4. **Clone the Repository**:
    ```bash
