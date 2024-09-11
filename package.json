@@ -1,0 +1,21 @@
+{
+  "name": "Plume",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "requires": true,
+  "scripts": {
+    "script1": "node checkin.js",
+    "script2": "node nest.js",
+    "script3": "node cultured.js",
+    "script4": "node ambientswap.js",
+    "script5": "node lend.js",
+    "script6": "node landshare.js",
+    "script7": "node nest.js && node cultured.js && node ambientswap.js && node lend.js && node landshare.js && realtyx.js",
+    "runAll": "node checkin.js && node nest.js && node cultured.js && node ambientswap.js && node lend.js && node landshare.js node && realtyx.js",
+    "script8": "node realtyx.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.2"
+  },
+  "devDependencies": {}
+}
