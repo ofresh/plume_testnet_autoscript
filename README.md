@@ -13,7 +13,7 @@ This project contains an automated script for the Plume Testnet. The script perf
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/my-project.git
+   git clone https://github.com/ofresh/plume_testnet_autoscript.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -29,7 +29,9 @@ This project contains an automated script for the Plume Testnet. The script perf
 
 4. Add your privatekeys in privateKeys.txt
    Add each of your private keys in the following format, one per line:
+```bash
    0xprivatekey
+```
   Ensure that each private key is on a new line.
 
 5. **Run the Script**:
@@ -37,7 +39,7 @@ This project contains an automated script for the Plume Testnet. The script perf
 
 ## Documentation
 
-Detailed instructions for setting up and using the script are available in the documentation at https://www.youtube.com/watch?v=zU6kAyksR0E
+Detailed instructions for setting up and using the script are available in the documentation at https://www.youtube.com/watch?v=zU6kAyksR0E and t.me/ofreshablecrypto
 
 ## License
 
