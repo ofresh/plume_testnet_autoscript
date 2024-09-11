@@ -19,29 +19,36 @@ This project contains an automated script for the Plume Testnet. The script perf
 
    Make sure Git is installed on your system. Installation instructions can be found on the [official Git website](https://git-scm.com/).
 
-3. **Clone the Repository**:
+3. **Test Tokens**
+
+   For the script to work correctly, you will need test ETH and GOON tokens. You can obtain these tokens from the following links:
+
+   - [Get test ETH]([https://example.com/get-test-eth](https://miles.plumenetwork.xyz/faucet))
+   - [Get test GOON tokens]([https://example.com/get-test-goon](https://miles.plumenetwork.xyz/faucet))
+
+4. **Clone the Repository**:
    ```bash
    git clone https://github.com/ofresh/plume_testnet_autoscript.git
    ```
 
-4. **Navigate to the Project Directory**:
+5. **Navigate to the Project Directory**:
    ```bash
    cd plume_testnet_autoscript
    ```
 
-5. **Install Dependencies**:
+6. **Install Dependencies**:
    ```bash
    npm install
    ```
 
-6. Add your privatekeys in privateKeys.txt
+7. Add your privatekeys in privateKeys.txt
    Add each of your private keys in the following format, one per line:
 ```bash
    0xprivatekey
 ```
   Ensure that each private key is on a new line.
 
-7. **Run the Script**:
+8. **Run the Script**:
    Use start.bat
 
 ## Documentation
