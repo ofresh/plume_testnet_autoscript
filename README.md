@@ -11,30 +11,37 @@ This project contains an automated script for the Plume Testnet. The script perf
 
 ## How to Use
 
-1. **Clone the Repository**:
+1. **Node.js**
+
+   The script is written in JavaScript and requires Node.js. You can download and install Node.js from the [official website](https://nodejs.org/).
+
+2. **Git**
+
+   Make sure Git is installed on your system. Installation instructions can be found on the [official Git website](https://git-scm.com/).
+
+3. **Clone the Repository**:
    ```bash
    git clone https://github.com/ofresh/plume_testnet_autoscript.git
    ```
 
-2. **Navigate to the Project Directory**:
+4. **Navigate to the Project Directory**:
    ```bash
-   cd my-project
+   cd plume_testnet_autoscript
    ```
 
-3. **Install Dependencies** (if applicable):
+5. **Install Dependencies**:
    ```bash
    npm install
    ```
-   or use another command based on your setup.
 
-4. Add your privatekeys in privateKeys.txt
+6. Add your privatekeys in privateKeys.txt
    Add each of your private keys in the following format, one per line:
 ```bash
    0xprivatekey
 ```
   Ensure that each private key is on a new line.
 
-5. **Run the Script**:
+7. **Run the Script**:
    Use start.bat
 
 ## Documentation
