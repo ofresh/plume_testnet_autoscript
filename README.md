@@ -44,7 +44,9 @@ This project contains an automated script for the Plume Testnet. The script perf
 7. Add your privatekeys in privateKeys.txt
    Add each of your private keys in the following format, one per line:
 ```bash
-   0xprivatekey
+   0xprivatekey1
+   0xprivatekey2
+   0xprivatekey3
 ```
   Ensure that each private key is on a new line.
 
